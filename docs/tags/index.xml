@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Binario</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Binario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cliente</title>
+      <link>/tags/cliente/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cliente/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Desarrollo web</title>
+      <link>/tags/desarrollo-web/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/desarrollo-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frameworks</title>
+      <link>/tags/frameworks/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/frameworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Herramientas web</title>
+      <link>/tags/herramientas-web/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/herramientas-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Redes</title>
+      <link>/tags/redes/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/redes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Servidor</title>
+      <link>/tags/servidor/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/servidor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Basic Elements</title>
+      <link>/tags/basic-elements/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/basic-elements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS</title>
+      <link>/tags/css/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HTML</title>
+      <link>/tags/html/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/html/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

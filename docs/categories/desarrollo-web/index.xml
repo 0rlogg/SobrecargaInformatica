@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Desarrollo web on Binario</title>
+    <link>/categories/desarrollo-web/</link>
+    <description>Recent content in Desarrollo web on Binario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/desarrollo-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glosario de herramientas y tecnologías para el desarrollo web</title>
+      <link>/post/practica-2/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/practica-2/</guid>
+      <description>Frameworks   Vue.js Vue.js es un framework de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones de una sola página.
+   Angular Vue AngularJS, es un framework de JavaScript de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.
+   Librerias   Boostrap Vue Bootstrap es una librería o conjunto de herramientas de código abierto para diseño de sitios y aplicaciones web.</description>
+    </item>
+    
+  </channel>
+</rss>

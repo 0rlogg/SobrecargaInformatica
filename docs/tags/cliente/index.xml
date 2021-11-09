@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cliente on Binario</title>
+    <link>/tags/cliente/</link>
+    <description>Recent content in Cliente on Binario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cliente/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Proceso de comunicación cliente - servidor</title>
+      <link>/post/practica-1/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/practica-1/</guid>
+      <description>Modelo cliente - servidor El modelo cliente - servidor tiene dos partes diferenciadas:
+  Lado servidor
+el lado servidor suele ser un ordenador que actúa como deposito de datos, a parte contiene software especifico que ofrece servicios a el lado cliente.
+   Lado cliente
+el lado cliente puede ser uno o mas ordenadores que solicitan diferentes recursos o servicios al servidor.
+Las transacciones en este modelo funcionan de la siguiente manera:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Basic Elements on Binario</title>
+    <link>/tags/basic-elements/</link>
+    <description>Recent content in Basic Elements on Binario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/basic-elements/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Como generar un sitio web con hugo</title>
+      <link>/post/generar-un-sitio-web-con-hugo/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/generar-un-sitio-web-con-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

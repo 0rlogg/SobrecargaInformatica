@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Binario</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Binario</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 05 Nov 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Glosario de herramientas y tecnologías para el desarrollo web</title>
+      <link>/post/practica-2/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/practica-2/</guid>
+      <description>Frameworks   Vue.js Vue.js es un framework de JavaScript de código abierto para la construcción de interfaces de usuario y aplicaciones de una sola página.
+   Angular Vue AngularJS, es un framework de JavaScript de código abierto, mantenido por Google, que se utiliza para crear y mantener aplicaciones web de una sola página.
+   Librerias   Boostrap Vue Bootstrap es una librería o conjunto de herramientas de código abierto para diseño de sitios y aplicaciones web.</description>
+    </item>
+    
+    <item>
+      <title>Proceso de comunicación cliente - servidor</title>
+      <link>/post/practica-1/</link>
+      <pubDate>Fri, 05 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/practica-1/</guid>
+      <description>Modelo cliente - servidor El modelo cliente - servidor tiene dos partes diferenciadas:
+  Lado servidor
+el lado servidor suele ser un ordenador que actúa como deposito de datos, a parte contiene software especifico que ofrece servicios a el lado cliente.
+   Lado cliente
+el lado cliente puede ser uno o mas ordenadores que solicitan diferentes recursos o servicios al servidor.
+Las transacciones en este modelo funcionan de la siguiente manera:</description>
+    </item>
+    
+    <item>
+      <title>Como generar un sitio web con hugo</title>
+      <link>/post/generar-un-sitio-web-con-hugo/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/generar-un-sitio-web-con-hugo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
